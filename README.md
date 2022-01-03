@@ -3,6 +3,8 @@
 This is a Spring Boot project with Maven as build tool. The goal of this challenge is to determine how you build a service based on JVM technologies.
 This means, apart from Spring Boot you are open to use any technology you want. If this would be production code, how would you test it? The service within this repository does not work like it should.
 
+You can use any IDE that you want. As an option, we added a GitPod button at the top. If you click the button, you are taken to [gitpod.io](https://gitpod.io). gitpod offers an online Java IDE based on VS code.
+
 Important: Please reach out to us, if you have any questions in regards of this challenge. Make sure to document how you achieve your goal.
 
 ## Import and compile
