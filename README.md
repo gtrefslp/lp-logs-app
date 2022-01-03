@@ -1,4 +1,4 @@
-# Team Messaging Extensions coding challenge
+# Team Messaging Extensions coding challenge [![Open in GitPod](https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod)](https://gitpod.io/from-referrer/)
 
 This is a Spring Boot project with Maven as build tool. The goal of this challenge is to determine how you build a service based on JVM technologies.
 This means, apart from Spring Boot you are open to use any technology you want. If this would be production code, how would you test it? The service within this repository does not work like it should.
