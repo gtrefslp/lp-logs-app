@@ -1,9 +1,7 @@
-# Team Messaging Extensions coding challenge [![Open in GitPod](https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod)](https://gitpod.io/from-referrer/)
+# Team Messaging Extensions coding challenge
 
 This is a Spring Boot project with Maven as build tool. The goal of this challenge is to determine how you build a service based on JVM technologies.
-This means, apart from Spring Boot you are open to use any technology you want. If this would be production code, how would you test it? The service within this repository does not work like it should.
-
-You can use any IDE that you want. As an option, we added a GitPod button at the top. If you click the button, you are taken to [gitpod.io](https://gitpod.io). gitpod offers an online Java IDE based on VS code. It could be that you have to restart your work space once or twice until you can run the project. You can also use GitHub Codespaces by signing in to GitHub and Codespaces once you clicked the green `Code` button. This will start a VS code instance.
+This means, apart from Spring Boot you are open to use any technology you want. If this would be production code, how would you test it? The service within this repository does not work like it should. You can use any IDE that you want. If you are signed in to GitHub, there is an option to use Codespaces. Click on the green `Code` button and choose your codespace.
 
 Important: Please reach out to us, if you have any questions in regards of this challenge. Make sure to document how you achieve your goal.
 
